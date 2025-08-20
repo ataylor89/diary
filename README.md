@@ -167,3 +167,11 @@ We can use a different word
 Anakin is really a member of our family
 
 Anakin is a member of our family, just like Rey is a member of our family
+
+## Wednesday August 20, 2025
+
+I'm watching another video on YouTube about Anakin
+
+It is set to Steve Jablonsky's song, "Tessa"
+
+https://www.youtube.com/watch?v=p6OOmLShA2Q
