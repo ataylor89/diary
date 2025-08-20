@@ -73,3 +73,13 @@ China is doing it
 China is a member of the Immediate Rescue System
 
 China has Qualified Female Leadership
+
+## Tuesday, August 19, 2025
+
+I know it might be hard to believe my claim
+
+It's a lot to process
+
+I think it will help if I share my thought process
+
+It will take a while to put my thought process in writing, so I will really attempt to do this in the upcoming posts
