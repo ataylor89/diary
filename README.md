@@ -123,3 +123,47 @@ There was also a house beside them and it belonged to the cow
 The boy was very emotional at these words
 
 "I would love to," said the boy
+
+## Wednesday August 20, 2025
+
+I am listening to this song on YouTube:
+
+https://www.youtube.com/watch?v=7aumSMeQ-ik
+
+I really love the Star Wars franchise
+
+George Lucas is one of my favorite filmmakers
+
+When you watch Star Wars, you realize... everyone cares about Anakin
+
+Anakin is really dear to everyone
+
+I think that Anakin was abused by the Jedi
+
+The Jedi did not have qualified leadership
+
+At the end of the series, Rey appears
+
+Rey is a true leader
+
+Rey treats Kylo Ren well
+
+At the end of the series, we see that the Jedi order has good leadership
+
+The jedi order has Rey
+
+The jedi order gets qualified female leadership in episodes 7, 8, and 9
+
+Rey treats Kylo Ren well, and she also treats Anakin well
+
+So you see that, there's really DNA
+
+Anakin is innocent by DNA
+
+We can change vocabularies
+
+We can use a different word
+
+Anakin is really a member of our family
+
+Anakin is a member of our family, just like Rey is a member of our family
