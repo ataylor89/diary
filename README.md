@@ -409,3 +409,59 @@ My employer is every person who is poor or homeless
 I work for the poor
 
 I work for the homeless
+
+## Wednesday August 20, 2025
+
+I wrote the following post on the chessdotcom forums
+
+    I thought I would post some safe info on chess
+
+    1. You can learn chess at any age
+
+    2. You can master chess at any age
+
+    3. Rating doesn't matter; what matters is your enjoyment of the game
+
+    4. Controlling the center is a famous phrase but honestly, I don't know what it means. Does it mean occupy the center with pieces or attack the center with pieces? Honestly, I don't know if "control the center" is useful advice. What's useful, for me, is this advice: Play the best move. The words "play the best move" are clear and simple. On every move there is one or more best move. I really like the advice "play the best move". I take this advice to heart.
+
+    5. Every chess move is a decision. The words "play the best move" are really equivalent to "make the best decision". Chess teaches us about decision making. On every move we try to make the best decision, to maximize our chances of winning the game.
+
+    6. In life we can make the best decision. In life we can play the best move. So chess actually teaches us a lot about life.
+
+    I hope this helped. I hope it was enjoyable to read.
+
+    I care a lot about chess.com... I have been playing on chess.com for over 15 years.
+
+    Thanks, chess.com, for all the good memories, all the good games.
+
+Listen...
+
+There's a bit of a censorship problem on the chessdotcom forums
+
+I don't know how to explain it, but there's a bit of a censorship problem on the chessdotcom forums
+
+I'll share with you an anecdote
+
+I was trying to post the truth about what's happening in the world on the chessdotcom forums
+
+I kept on getting censored
+
+So I encrypted my writing using the rot13 encryption algorithm
+
+I thought that maybe it would decrease the risk of censorship
+
+It actually did
+
+I think that chessdotcom has a security feature which prevents a moderator from deleting a post if a software algorithm approves it
+
+I think that my rot13 writing was approved because the software was unable to flag any words
+
+So it might actually be that rot13 encryption decreases the risk of censorship on chessdotcom
+
+The problem is... there are many layers of censorship on chessdotcom
+
+There are also many layers of censorship on Reddit
+
+I have tried publishing the truth on chessdotcom and Reddit but I got censored
+
+I have to break through a wall of censorship to publish the truth
