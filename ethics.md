@@ -24,3 +24,9 @@ I wanted to share with you some of my family ethics
     - In my family we say, "Don't have sex before marriage, and don't have sex after marriage"
     - In my family we say, "Never have sex"
     - In my family we say, "Sex is not safe... never have sex"
+3. Moral behavior
+    - In my family we say that moral behavior is everything
+    - In my family we put safety first
+    - In my family we put moral behavior first
+    - In my family we put family first
+    - In my family we always try to have moral behavior
