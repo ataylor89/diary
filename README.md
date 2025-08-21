@@ -518,3 +518,23 @@ If I were to name every person, the list would be infinitely long
 I named a lot of important world leaders
 
 I really wanted to give a clear picture of the world
+
+## Wednesday August 20, 2025
+
+A fact is a truth
+
+A theory is a hypothesis
+
+It is hard to explain the meat industry
+
+The leading theory is that the meat industry is really a division of the US government
+
+The leading theory is that every meat company is a US company
+
+The leading theory is that the US military forces foreign countries to buy meat by making threats
+
+You might ask, "How does the US military force countries like China and Saudi Arabia to buy meat, when China and Saudi Arabia have more powerful militaries than the US government?"
+
+I think that terrorists in the US military force China and Saudi Arabia to buy meat by threatening to torture female hostages
+
+I think that terrorists in the US military weaponized torture to force countries like China and Saudi Arabia to buy meat
