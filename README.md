@@ -538,3 +538,21 @@ You might ask, "How does the US military force countries like China and Saudi Ar
 I think that terrorists in the US military force China and Saudi Arabia to buy meat by threatening to torture female hostages
 
 I think that terrorists in the US military weaponized torture to force countries like China and Saudi Arabia to buy meat
+
+## Wednesday August 20 2025
+
+I claimed that the US government is the biggest cause of the meat industry
+
+There are many reasons I make this claim
+
+First, I am a victim of presidential crime and this makes me sure that the US government is corrupt
+
+Second, Aaron Schwartz is a victim of the US government and this make me sure that the US government is corrupt
+
+(Aaron Schwartz is one of my best friends and he's a member of my nuclear family)
+
+Third, Donald Trump is a proof that the US government is corrupt
+
+So this really shows that the US government is corrupt
+
+If the US government is corrupt, then I think that it's the biggest cause of the meat industry
