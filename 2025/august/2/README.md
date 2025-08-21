@@ -47,3 +47,102 @@ Let's proceed by giving a lesson on mathematics
 We will start the lesson with a question:
 
 How many number systems do you know?
+
+## Thursday August 21 2025
+
+I know four number systems
+
+The number systems I know and use are called decimal, hexadecimal, binary, and tally
+
+The tally number system is an early number system that predates positional number systems like decimal
+
+My name is Andrew Taylor
+
+There are twelve letters in my name
+
+We can write the number twelve in tally like this:
+
+||||| ||||| ||
+
+The tally number system works very well for small numbers like twelve
+
+But what if we want to write the number nine hundred sixty in tally?
+
+The number nine hundred sixty is actually the Unicode code point for the Greek letter Pi
+
+We can verify this by opening the Python shell
+
+In order to open the Python shell, first we can open the Terminal application under Applications>Utilities
+
+(I am using a MacBook so these references are based on the MacOS operating system)
+
+We can open the Finder application, which might be in your dock, and then open Terminal by navigating to Applications and Utilities
+
+Once we have opened Terminal, we can check whether Python is installed with the command
+
+    % python --version
+
+The output (for me) looks like this
+
+    % python --version
+    Python 3.11.3
+
+We have verified that Python is installed
+
+The word "python" is an alias for the program /usr/bin/python3
+
+If you don't have the alias set up, you can try this command:
+
+% /usr/bin/python3 --version
+Python 3.9.6
+
+You might wonder... why does the python alias point to a different version than /usr/bin/python3?
+
+It's because there is a directory in my path that contains a later version of Python
+
+It's because of these lines in my ~/.zprofile configuration file
+
+    PATH="/Library/Frameworks/Python.framework/Versions/3.11/bin:${PATH}"
+    export PATH
+
+You can see that it adds the 3.11 Python framework to the path, and that it takes precedence over other directores in my path
+
+So zsh is is able to find Python 3.11 because of those lines in my ~/.zprofile configuration file
+
+If your Python alias is not set up, then you can add the following lines to your ~/.zprofile config file:
+
+    # Setting up an alias for python
+    alias python="/usr/bin/python3"
+
+After you append those lines to ~/.zprofile, the alias should be setup.
+
+I think that the file ~/.zprofile is run every time you log in, whereas the file ~/.zshrc is run every time you start a new shell.
+
+So you have to source the file with the command
+
+    % . ~/.zprofile
+
+By sourcing the file, you run every command contained in the shell script ~/.zprofile
+
+Hopefully, this succeeds in setting up the Python alias
+
+Let's try the command again
+
+    % python --version
+    Python 3.11.3
+
+If you're able to confirm that the Python alias is configured, then we can open the Python shell by using the python command
+
+If the Python alias is still not configured, then we can open the shell by using the full program path /usr/bin/python3
+
+This is a lot of information, so I'll stop here and pick up later
+
+We originally were talking about the numbers twelve and nine hundred sixty
+
+It is easy to write the number twelve in tally
+
+It is difficult to write the number nine hundred sixty in tally
+
+The number nine hundred sixty is interesting because it's the Unicode code point for the Greek letter Pi
+
+In the next diary entry we can confirm this by opening the Python shell and looking up the Unicode character for the code point 960
