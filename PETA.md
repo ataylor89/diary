@@ -1,7 +1,5 @@
 # PETA
 
-## Self-description
-
 I'm a proud member of PETA
 
 This repository has so much visiblity (because it gets updated frequently) that I wanted to say it here
