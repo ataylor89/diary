@@ -567,7 +567,7 @@ They are very dangerous
 
 They are extremely evil
 
-I'm not naive... I don't deny good and denial
+I'm not naive... I don't deny good and evil
 
 I have no denials
 
