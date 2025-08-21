@@ -249,3 +249,87 @@ There are so many people who think that height is maturity
 There are so many people who think that money is integrity
 
 That we need to use the word "intelligence", we need to measure intelligence, for safety reasons
+
+## Wednesday August 20, 2025
+
+It's important to add...
+
+We can really give the word "inteligence" a good definition
+
+There are many good definitions
+
+Moral behavior is one definition of intelligence
+
+Integrity is one definition of intelligence
+
+Skill is actually not a definition of intelligence
+
+Intelligence is not the same thing as skill
+
+There is a whole class of criminals called "highly skilled criminals"
+
+I am trained to identify a highly skilled criminal
+
+There is a class of criminals called "surprise harm criminals"
+
+Donald Trump is a surprise harm criminal
+
+I have analyzed US presidents
+
+I really think that Barack Obama, Bill Clinton, and George W. Bush are good people
+
+It's possible they made mistakes, but it's hard to know if they did, because there is so much misinformation
+
+The US government has had fake video for a long time, so it's hard to know whether George W. Bush authorized the invasion of Iraq
+
+So listen
+
+I really think that Barack Obama, Bill Clinton, and George W. Bush are good people
+
+I think that Barack Obama, Bill Clinton, and George W. Bush are well-intentioned
+
+I think that Joe Biden was impersonated for four years
+
+I think that Joe Biden never took office
+
+I think that Donald Trump has been the US president for over eight years
+
+I know for sure that Donald Trump is a dangerous criminal
+
+I have proof that Donald Trump is a dangerous criminal
+
+I have formally indicted Donald Trump
+
+I have charged Donald Trump with this indictment: Donald Trump is a kidnapper, a rapist, a murderer, a torture criminal
+
+I explained my reasoning in a repository called "analysisoftheworld"
+
+So I want to make this clear
+
+There is only one US president I have indicted
+
+The US president that I indicted is Donald Trump
+
+I think that every other US president from the 21st century is a good person
+
+I think that Barack Obama and Hillary Clinton are two of the smartest people to grace the Oval Office
+
+I'm really impressed with Barack Obama and Hillary Clinton
+
+I think that Barack Obama's X account is an impersonation attack
+
+I think that Hillary Clinton's X account is an impersonation attack
+
+I think that Barack Obama and Hillary Clinton stopped posting on Twitter after Donald Trump became a US president
+
+When Donald Trump was elected, it was the saddest day in US history
+
+Democracy is clearly wrong...
+
+Democracy is not safe for women, and this is one proof that democracy is wrong
+
+The right leadership model is Qualified Female Leadership
+
+Qualified Female Leadership is the leader of the Immediate Rescue System
+
+China and many other countries have Qualified Female Leadership
