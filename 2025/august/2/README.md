@@ -93,8 +93,8 @@ The word "python" is an alias for the program /usr/bin/python3
 
 If you don't have the alias set up, you can try this command:
 
-% /usr/bin/python3 --version
-Python 3.9.6
+    % /usr/bin/python3 --version
+    Python 3.9.6
 
 You might wonder... why does the python alias point to a different version than /usr/bin/python3?
 
