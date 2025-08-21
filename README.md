@@ -351,3 +351,25 @@ A lot of people have met a good person before
 I'm so good that I'm perfect
 
 I'm one of the few men in the world who can say that he's perfect
+
+## Wednesday August 20, 2025
+
+Listen
+
+I don't want anyone to get hurt trying to copy me
+
+I'm a professional rescue officer in the IRS
+
+I help almost every person I meet
+
+If I can't give a homeless person money for some reason, then I remember them and pray for them
+
+I give money to the homeless very often
+
+I have helped many homeless men find housing
+
+I have helped many homeless women find housing
+
+I have long-term relationships with many people who are poor or homeless
+
+I have long-term relationships with over 20 people who are poor or homeless
