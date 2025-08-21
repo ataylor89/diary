@@ -18,6 +18,8 @@ Iran is a member of the IRS
 
 ISIS (originally the bodyguard of Saddam Hussein) is a member of the IRS
 
+Bashar al Assad and his administration are a member of the IRS
+
 The Taliban is a member of the IRS
 
 North Korea is a member of the IRS
