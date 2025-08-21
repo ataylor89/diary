@@ -487,3 +487,34 @@ I really think that Barack and Michelle Obama, Bill and Hillary Clinton, and Geo
 I think what happened is this...
 
 I think the CIA lost control of the presidency in 2017
+
+## Wednesday August 20, 2025
+
+It's important to have an accurate list of good guys
+
+The good guys (the team of angels) include...
+
+Me Andrew Taylor ktm5124\
+Gina Haspel and the Haspel administration of the CIA\
+PETA\
+The Vatican\
+Xi Jinping and the Chinese peacemakers\
+Vladimir Putin and the Putin administration of the KGB\
+Ali Khamenei and the Iranian government\
+The Taliban\
+Osama bin Laden\
+Saddam Hussein\
+The real ISIS (originally the bodyguard of Saddam Hussein)\
+Bashar al Assad\
+Kim Jong Un and the North Korean government\
+Mohammed bin Salman and the Saudi Arabian government\
+Every good CEO\
+Every good person
+
+There are many good people on this list whom I have not named
+
+If I were to name every person, the list would be infinitely long
+
+I named a lot of important world leaders
+
+I really wanted to give a clear picture of the world
