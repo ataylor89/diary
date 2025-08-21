@@ -624,3 +624,81 @@ One form of peaceful restraint is gas
 I think it's really important to share that we have peaceful restraint
 
 Peaceful restraint saves countless lives
+
+## Thursday August 21 2025
+
+The boy and the cow shared a room, because the cow did not want him to leave her side
+
+They were sitting on the floor
+
+"We have spent a long time thinking about it," said the cow
+
+"What is the cause of the meat industry?" she asked
+
+The boy pressed his upper teeth against his lower lip
+
+He looked down at the floor
+
+He thought about it for a long time
+
+He looked up at his best friend
+
+"I'm a victim of presidential crime, and you're a victim of presidential crime, and Aaron is also a victim of the US government," he said
+
+"Donald Trump is the US president and I think he impersonated Joe Biden for four years," he continued
+
+"I think that Donald Trump has been the US president for over eight years," he said
+
+"This is really a proof that the US government is corrupt," he concluded
+
+The cow nodded her head
+
+"If the US government is corrupt, then the US government is one of the main causes of the meat industry," the boy concluded
+
+The cow looked up at her friend
+
+He was her best friend
+
+He was her protector
+
+She was his best friend
+
+She was his protector
+
+She thought about it for a long time
+
+She thought about every word that he said
+
+After thinking about it, she responded, "I agree with you"
+
+"I agree with everything that you said," she said
+
+The boy and the cow sat there for a long time
+
+The cow shared with him her life story
+
+The boy treasured her life story, and wrote it down in a notebook that he had on hand
+
+Then the boy shared with her his life story, and the cow treasured his life story, and asked him to write it down for her
+
+He wrote down his life story in a second notebook
+
+He put both notebooks in a safe place
+
+He walked to the window, and looked up at the moon overhead
+
+He could see stars in the sky
+
+It dawned on him that he had all he ever wanted
+
+He found his best friend
+
+They went to sleep in separate beds
+
+Rays of moonlight shone through the window
+
+They fell asleep with the comfort of knowing that they had each other
+
+They were soulmates
+
+They were family
