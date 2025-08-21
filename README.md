@@ -465,3 +465,25 @@ There are also many layers of censorship on Reddit
 I have tried publishing the truth on chessdotcom and Reddit but I got censored
 
 I have to break through a wall of censorship to publish the truth
+
+## Wednesday August 20, 2025
+
+I really think that Barack Obama, George W. Bush, and Bill Clinton are good people
+
+If they made mistakes, then they're good people who made mistakes
+
+But it's hard to know if they made mistakes, because there is so much misinformation
+
+The US military has had fake video for a long time
+
+There are men in the US military who weaponized misinformation
+
+There are men in the US military who weaponized fake video
+
+So listen
+
+I really think that Barack and Michelle Obama, Bill and Hillary Clinton, and George and Laura Bush are good people
+
+I think what happened is this...
+
+I think the CIA lost control of the presidency in 2017
