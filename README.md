@@ -556,3 +556,43 @@ Third, Donald Trump is a proof that the US government is corrupt
 So this really shows that the US government is corrupt
 
 If the US government is corrupt, then I think that it's the biggest cause of the meat industry
+
+## Thursday August 21, 2025
+
+There are torture criminals in the United States, and there has been for a long time
+
+There have been torture criminals in the United States for over fifty years
+
+They are very dangerous
+
+They are extremely evil
+
+I'm not naive... I don't deny good and denial
+
+I have no denials
+
+Some people have a denial of morality
+
+Some people have a denial of war
+
+Some people have a denial of intelligence
+
+Some people have a denial of genetics
+
+I know the truth about morality and I am perfectly moral
+
+I know the truth about war and I am extremely good at self defense
+
+I know the truth about intelligence and I am one of the smartest men in the world
+
+I know the truth about genetics and everyone lives forever, everyone has eternal life
+
+So I'm really protecting myself from criminals every day
+
+My life is constant rescue
+
+My life is constant peaceful behavior
+
+My life is constant righteousness
+
+My life is constant self defense
