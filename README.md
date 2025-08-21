@@ -175,3 +175,77 @@ I'm watching another video on YouTube about Anakin
 It is set to Steve Jablonsky's song, "Tessa"
 
 https://www.youtube.com/watch?v=p6OOmLShA2Q
+
+## Wednesday August 20, 2025
+
+I think a lot of people are asking, "Why do we use the word intelligence? Why do we measure intelligence?"
+
+Well...
+
+I think that over 99% of people have a false definition of maturity
+
+I think that over 99% of people have a false definition of integrity
+
+So we have to use the word "intelligence" for safety reasons
+
+In my family we measure everything
+
+We measure intelligence
+
+We measure maturity
+
+We measure integrity
+
+We look at marital choice
+
+We look at filial choice
+
+We measure suffering
+
+We measure financial need
+
+We really use measurement as a tool for analyzing people and situations
+
+We use measurement as a tool for evaluating people
+
+It's this simple...
+
+We can write a proof
+
+We have to measure whether a doctor is competent or incompetent
+
+We have to measure whether a doctor is trustworthy or untrustworthy
+
+This is one proof that we have to evaluate people
+
+This is one proof that we have to make measurements
+
+I'm very careful when I evaluate people
+
+I have extremely good judgment
+
+I'm pure of heart and perfect in integrity, so it really helps me evaluate people
+
+I'm very fair when I evaluate people
+
+There's only one man I criticized...
+
+I formally indicted Donald Trump
+
+I also indicted the meat industry
+
+I also indicted the male accomplices of Donald Trump, but I do not know their names
+
+So there's only one man I criticized by name
+
+I have wonderful things to say about most people
+
+It is very easy for me to speak well of someone when they really deserve it
+
+So the bottom line is that...
+
+There are so many people who think that height is maturity
+
+There are so many people who think that money is integrity
+
+That we need to use the word "intelligence", we need to measure intelligence, for safety reasons
