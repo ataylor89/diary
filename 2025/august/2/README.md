@@ -175,29 +175,29 @@ The number nine hundred sixty in binary is 1111000000
 
 We can confirm this by opening the Python shell
 
-% python
->>> print("hello world")
-hello world
->>> print("we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary")
-we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary
->>> 960
-960
->>> hex(960)
-'0x3c0'
->>> bin(960)
-'0b1111000000'
+    % python
+    >>> print("hello world")
+    hello world
+    >>> print("we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary")
+    we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary
+    >>> 960
+    960
+    >>> hex(960)
+    '0x3c0'
+    >>> bin(960)
+    '0b1111000000'
 
 We said earlier that the Greek letter pi corresponds to the Unicode code point 960
 
 Let's confirm that too
 
-% python
->>> chr(960)
-'π'
->>> chr(0x3c0)
-'π'
->>> chr(0b1111000000)
-'π'
+    % python
+    >>> chr(960)
+    'π'
+    >>> chr(0x3c0)
+    'π'
+    >>> chr(0b1111000000)
+    'π'
 
 You can see that 960, 0x3c0, and 0b1111000000 all correspond to the same value (number)
 
@@ -241,6 +241,6 @@ The Greek letter π corresponds to the Unicode code point 960
 
 We are able to confirm this in the Python shell
 
-% python
->>> chr(960)
-'π'
+    % python
+    >>> chr(960)
+    'π'
