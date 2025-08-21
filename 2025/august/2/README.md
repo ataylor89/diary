@@ -146,3 +146,101 @@ It is difficult to write the number nine hundred sixty in tally
 The number nine hundred sixty is interesting because it's the Unicode code point for the Greek letter Pi
 
 In the next diary entry we can confirm this by opening the Python shell and looking up the Unicode character for the code point 960
+
+## Thursday August 21 2025
+
+It's 4:07pm and my birthday is April 7
+
+It's a special time
+
+Listen
+
+We can write the number twelve in tally
+
+||||| ||||| ||
+
+But it's difficult to write the number nine hundred sixty in tally
+
+Instead, we can use a positional number system like decimal
+
+The number nine hundred sixty in decimal is 960
+
+There are other positional number systems that I use
+
+I also use hexadecimal and binary
+
+The number nine hundred sixty in hexadecimal is 3c0
+
+The number nine hundred sixty in binary is 1111000000
+
+We can confirm this by opening the Python shell
+
+% python
+>>> print("hello world")
+hello world
+>>> print("we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary")
+we are going to write the number nine hundred sixty in decimal, hexadecimal, and binary
+>>> 960
+960
+>>> hex(960)
+'0x3c0'
+>>> bin(960)
+'0b1111000000'
+
+We said earlier that the Greek letter pi corresponds to the Unicode code point 960
+
+Let's confirm that too
+
+% python
+>>> chr(960)
+'π'
+>>> chr(0x3c0)
+'π'
+>>> chr(0b1111000000)
+'π'
+
+You can see that 960, 0x3c0, and 0b1111000000 all correspond to the same value (number)
+
+When we lookup this number in our Unicode code table, we get the Greek letter π
+
+You might wonder, "What is Unicode?"
+
+Unicode is a character encoding system
+
+ASCII is also a character encoding system
+
+ASCII has 128 characters, and it makes up the first 128 characters of Unicode
+
+ASCII is a subset of Unicode
+
+ASCII supports the English language but it doesn't support other word languages like Mandarin or Arabic
+
+Unicode supports almost every world language, including Mandarin and Arabic
+
+ASCII has 128 characters
+
+Unicode has over 1 million characters
+
+So you can see that Unicode is a very big character set
+
+UTF-8 is one of many Unicode formats (the other formats I'm aware of are UTF-16 and UTF-32)
+
+UTF-8 is the default charset for HTML5
+
+UTF-8 is the default charset for MacOS files
+
+So listen
+
+Unicode supports almost every world language, including Greek
+
+The Unicode charset contains the Greek letter π
+
+The ASCII charset does not contain the Greek letter π
+
+The Greek letter π corresponds to the Unicode code point 960
+
+We are able to confirm this in the Python shell
+
+% python
+>>> chr(960)
+'π'
