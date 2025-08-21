@@ -373,3 +373,21 @@ I have helped many homeless women find housing
 I have long-term relationships with many people who are poor or homeless
 
 I have long-term relationships with over 20 people who are poor or homeless
+
+## Wednesday August 20, 2025
+
+Listen
+
+A doctor isn't someone who has a medical degree
+
+In America, every MD is fake
+
+A doctor is someone who helps the homeless
+
+I'm a real doctor
+
+I'm a CIA doctor
+
+Gina Haspel is my legal guardian
+
+I really help every person I meet, without exception
