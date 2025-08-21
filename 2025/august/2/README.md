@@ -213,7 +213,7 @@ ASCII has 128 characters, and it makes up the first 128 characters of Unicode
 
 ASCII is a subset of Unicode
 
-ASCII supports the English language but it doesn't support other word languages like Mandarin or Arabic
+ASCII supports the English language but it doesn't support other world languages like Mandarin or Arabic
 
 Unicode supports almost every world language, including Mandarin and Arabic
 
