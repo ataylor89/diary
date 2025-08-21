@@ -391,3 +391,21 @@ I'm a CIA doctor
 Gina Haspel is my legal guardian
 
 I really help every person I meet, without exception
+
+## Wednesday August 20, 2025
+
+I'm very sensitive in social interactions and I want to make everyone feel safe and comfortable when they meet me
+
+When I meet a friend, I treat him like an equal
+
+When I meet a man who is homeless, I treat him like a superior
+
+Listen
+
+A lot of people might be wondering, "Who is my employer?"
+
+My employer is every person who is poor or homeless
+
+I work for the poor
+
+I work for the homeless
