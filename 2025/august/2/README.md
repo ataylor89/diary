@@ -244,3 +244,59 @@ We are able to confirm this in the Python shell
     % python
     >>> chr(960)
     'π'
+
+## Friday August 22 2025
+
+So listen
+
+What's the plan for today?
+
+I'm going to take a minimum break of one movie
+
+I learned this language from my family
+
+We can measure breaks in terms of movies
+
+Remember
+
+A measurement is a number accompanied by a unit of measurement
+
+The minimum break is one movie
+
+The number in our measurement is one
+
+The unit in our measurement is movie
+
+So the measurement is 1 movie
+
+The minimum break is 1 movie
+
+Listen
+
+I might program during my break but I've been writing so much I'm going to take a minimum break of 1 movie
+
+I might watch Transformers: Age of Extinction
+
+I might watch X-Men: Apocalypse
+
+There are so many movies
+
+There are more movies than you can shake a stick at
+
+I learned that expression from my friend many years ago
+
+Listen
+
+The minimum break is 1 movie
+
+The magnitude is 1
+
+The unit of measurement (uom) is movie
+
+1 movie
+
+Listen
+
+I'm going to put on a movie
+
+I'm working on my chat application
