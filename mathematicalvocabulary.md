@@ -29,5 +29,6 @@ In the table below, I'll define some important words from the field of mathemati
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
 | Linear algebra | The study of linear equations |
-| Number theory | The study of numbers | 
+| Number theory | The study of numbers |
+| Probability | The study of chance, likelihood, or probability |
 | Trigonometry | The study of triangles |
