@@ -15,7 +15,7 @@ I am 100% confident that these indictments are correct. I explain my thought pro
     - Donald Trump kidnapped, raped, and tortured female intelligence officers from foreign countries
     - I have proof that Donald Trump committed these crimes
     - If my reader doesn't have proof, my reader can measure risk
-    - The risk is over 95% from the perspective of someone who does not proof
+    - The risk is over 95% from the perspective of someone who does not have proof
     - There are people who are in a position to do a fair background check
     - A fair background check confirms that what I am saying is true
 3. I indict evil men in the US Navy and evil men in the US military
