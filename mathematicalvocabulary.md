@@ -25,6 +25,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Word | Definition
 |----- | ----------
 | Algebra | The field of mathematics concerned with solving for an unknown or solving equations |
+| Algorithm | A list of instructions |
 | Arithmetic | The study of numbers and numerical operations |
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
