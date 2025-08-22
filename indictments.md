@@ -1,4 +1,4 @@
-# Justice
+# indictments
 
 I feel comfortable making public indictments, because it helps me report an emergency, and it helps me locate an emergency.
 
