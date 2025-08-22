@@ -30,6 +30,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Combinatorics | The field of mathematics concerned with counting |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Linear algebra | The study of linear equations |
+| Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
 | Number theory | The study of numbers |
 | Prime number | A positive integer greater than one that is only divisible by one and itself |
 | Probability | The study of chance, likelihood, or probability |
