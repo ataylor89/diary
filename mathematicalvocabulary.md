@@ -31,7 +31,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Combinatorics | The field of mathematics concerned with counting |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Fact | A truth; a certainty |
-| Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that let you calculate a slope or an area. | 
+| Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
