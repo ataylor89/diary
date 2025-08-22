@@ -31,4 +31,5 @@ In the table below, I'll define some important words from the field of mathemati
 | Linear algebra | The study of linear equations |
 | Number theory | The study of numbers |
 | Probability | The study of chance, likelihood, or probability |
+| Risk | A probability; a probability measurement from 0% to 100% |
 | Trigonometry | The study of triangles |
