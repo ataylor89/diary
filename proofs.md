@@ -16,7 +16,7 @@ Psychiatric medication can cause diabetes, weight gain, hair loss, depression, a
 
 These are proofs that psychiatry is wrong
 
-If you have taken psychiatric medication in the past, don't worry, the effects are reversible and you'll be back to normal in a short time.You'll get a full recovery, a complete recovery, after you stop taking the psychiatric medication.
+If you have taken psychiatric medication in the past, don't worry, the effects are reversible and you'll be back to normal in a short time. You'll get a full recovery, a complete recovery, after you stop taking the psychiatric medication.
 
 The meat industry is so cruel it's the cruelest thing in the world
 
