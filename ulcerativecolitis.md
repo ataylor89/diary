@@ -1,5 +1,7 @@
 # ulcerative colitis
 
+## Chapter one
+
 I have a history of ulcerative colitis, and I think it helps to share it, because there are so many people who have a history of ulcerative colitis
 
 There are so many important medicines that treat or cure ulcerative colitis
@@ -87,3 +89,9 @@ This helps our colon and our gastrointestinal tract heal
 So I think that fasting is one of many treatments for ulcerative colitis
 
 In my family we say, "Safe fasting, safe medicine, and safe food are the cure for ulcerative colitis"
+
+## Chapter two
+
+I actually developed antibodies to Remicade, and I may have developed antibodies to Humira
+
+That's why, during my last two or three flares, I used a regimen of Prednisone, suppositories, and fasting
