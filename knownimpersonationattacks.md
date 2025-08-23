@@ -26,3 +26,6 @@ This is a list of known and suspected impersonation attacks
     - I think that Magnus was impersonated and I think that Magnus never accused Hans of cheating
     - Hans is one of the strongest chess players in the world and he's as strong a chess player as Magnus
     - If Hans and Magnus played a match, the odds would be 50-50, because they are so close in playing strength
+8. Joe Biden has been impersonated so much over the past eight years, that it's possible he was never president
+    - I'm sure that Joe Biden has been impersonated a lot... the question is, to what degree?
+    - It's possible he was never president, because he was impersonated so much
