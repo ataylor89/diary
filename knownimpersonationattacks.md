@@ -1,5 +1,11 @@
 # known impersonation attacks
 
+For a long time now, the US government has weaponized misinformation
+
+The US government created a weapon called "fake video"
+
+For a long time now, the US government has published fake stories, fake images, and fake video
+
 This is a list of known and suspected impersonation attacks
 
 1. The US government stole Twitter from Jack Dorsey, and impersonated people, and published misinformation, on X
@@ -29,3 +35,5 @@ This is a list of known and suspected impersonation attacks
 8. Joe Biden has been impersonated so much over the past eight years, that it's possible he was never president
     - I'm sure that Joe Biden has been impersonated a lot... the question is, to what degree?
     - It's possible he was never president, because he was impersonated so much
+
+
