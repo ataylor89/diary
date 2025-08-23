@@ -35,5 +35,9 @@ This is a list of known and suspected impersonation attacks
 8. Joe Biden has been impersonated so much over the past eight years, that it's possible he was never president
     - I'm sure that Joe Biden has been impersonated a lot... the question is, to what degree?
     - It's possible he was never president, because he was impersonated so much
-
+9. Vladimir Putin was impersonated
+    - Vladimir Putin is a father to me and he has never committed a crime
+    - Vladimir Putin did not invade Ukraine 
+    - Vladimir Putin is one of the best rescue officers in the world
+    - The US government published fake stories, fake images, and fake video of Vladimir Putin
 
