@@ -40,4 +40,8 @@ This is a list of known and suspected impersonation attacks
     - Vladimir Putin did not invade Ukraine 
     - Vladimir Putin is one of the best rescue officers in the world
     - The US government published fake stories, fake images, and fake video of Vladimir Putin
-
+    - Ukraine was invaded by terrorists in the US military
+    - Vladimir Putin was assaulted by terrorists in the US military and he was in the hospital for a long time
+    - Vladimir Putin recovered, and he is getting best medical care from qualified doctors
+    - It's important to know that Vladimir Putin is completely innocent and he did not invade Ukraine
+    - It's important to know that Ukraine was invaded by terrorists in the US military
