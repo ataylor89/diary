@@ -27,3 +27,23 @@ Correct policy is this:
 2) Everyone should get to work from home
 3) Don't terminate anyone's employment (i.e. no termination of employment)
 4) Don't evict anyone (i.e. no eviction)
+
+In the future there will be no money.
+
+Everyone will get food, water, and housing for free from the IRS.
+
+(The IRS is an acronym that means Immediate Rescue System.)
+
+So... as long as there are corporations, corporate policy should be correct.
+
+I'll say it one more time, so it has emphasis.
+
+Correct policy is this:
+1) Everyone should be vegan
+2) Everyone should get to work from home
+3) Don't terminate anyone's employment (i.e. no termination of employment)
+4) Don't evict anyone (i.e. no eviction)
+
+In the field of medicine, we say, "Help and do no harm"
+
+That's what every corporation should be doing
