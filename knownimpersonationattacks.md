@@ -50,3 +50,7 @@ This is a list of known and suspected impersonation attacks
     - Hans Zimmer did not authorize this video
     - Hans Zimmer is one of my favorite musicians
     - Hans Zimmer is one of the world's most celebrated musicians
+11. I think that John Ratcliffe was impersonated
+    - I think that John Ratcliffe's X account is not his own
+    - I think that the writing on John Ratcliffe's X account is not his own
+    - I think that John Ratcliffe was falsely portrayed meeting with Lara Trump by means of a fake video
