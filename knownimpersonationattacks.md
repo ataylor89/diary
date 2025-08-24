@@ -45,3 +45,8 @@ This is a list of known and suspected impersonation attacks
     - Vladimir Putin recovered, and he is getting best medical care from qualified doctors
     - It's important to know that Vladimir Putin is completely innocent and he did not invade Ukraine
     - It's important to know that Ukraine was invaded by terrorists in the US military
+10. Hans Zimmer was impersonated
+    - Someone impersonated Hans Zimmer and posted an inappropriate video on the Hans Zimmer Youtube account
+    - Hans Zimmer did not authorize this video
+    - Hans Zimmer is one of my favorite musicians
+    - Hans Zimmer is one of the world's most celebrated musicians
