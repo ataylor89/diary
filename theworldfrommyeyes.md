@@ -14,7 +14,7 @@ Well I can be brutally honest...
 
 99% of male professors in America are not competent at math
 
-99% of male doctors in America are not competent math
+99% of male doctors in America are not competent at math
 
 I got very high math scores in high school
 
