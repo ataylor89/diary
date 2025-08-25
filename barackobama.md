@@ -156,7 +156,7 @@ He said, "It's not safe to use badges"
 
 He said, "We're not using badges"
 
-I am very good at measuring how smart people how, how mature people are, how trustworthy people are
+I am very good at measuring how smart people are, how mature people are, how trustworthy people are
 
 I am very good at measuring suffering
 
