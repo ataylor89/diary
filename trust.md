@@ -206,7 +206,7 @@ They say, "What do you mean?"
 
 I say, "Stop prescribing poison, and start saying nice things to people"
 
-They're often discombobulated when I said this
+They're often discombobulated when I say this
 
 I say, "Do what Robin Williams did. Say nice things to Will"
 
