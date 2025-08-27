@@ -420,7 +420,7 @@ Chess is a branch of mathematics
 
 Programming and computer science are branches of mathematics
 
-Ethic, morality, and law are branches of mathematics
+Ethics, morality, and law are branches of mathematics
 
 Arithmetic, algebra, geometry, trigonometry, calculus, linear algebra, probability, combinatorics, are branches of mathematics
 
