@@ -380,7 +380,7 @@ Years later Sherlock got back to me
 
 "The maturity statistics in England are classified," Sherlock said
 
-"But Prince William confirmed that most men in America are undeed untrustworthy," Sherlock said
+"But Prince William confirmed that most men in America are indeed untrustworthy," Sherlock said
 
 "That's my conclusion," I said
 
