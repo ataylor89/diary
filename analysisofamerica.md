@@ -14,7 +14,7 @@ I think that Barack Obama is a CIA officer
 
 I think that Barack Obama spent all his time rescuing women in the US military and giving them jobs in corporate America
 
-I think that Barack Obama is really a good person
+I think that Barack Obama is a really good person
 
 So the US military is a gang
 
