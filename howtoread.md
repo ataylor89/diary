@@ -115,7 +115,7 @@ We will read it line by lien
     - This is a theory.
 
 25. We need to rescue every woman who was kidnapped by Donald Trump and his accomplices
-    - It is a fact that may women in the American intelligence community were kidnapped by Donald Trump and his accomplices during the first Trump administration, during the Biden administration, and during the second Trump administration. We need to immediately rescue every person who was kidnapped. The law of immediate rescue is to immediately rescue every person.
+    - It is a fact that many women in the American intelligence community were kidnapped by Donald Trump and his accomplices during the first Trump administration, during the Biden administration, and during the second Trump administration. We need to immediately rescue every person who was kidnapped. The law of immediate rescue is to immediately rescue every person.
 
 We read the text together
 
