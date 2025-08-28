@@ -2,8 +2,8 @@
 
 First, I am going to give you a text. Then we are going to analyze the text.
 
-Text:
-<start of text>
+Text:\
+\<start of text\>\
 I'm a CIA officer from the Haspel administration and Gina Haspel is my legal guardian.\
 I rank higher than Terence Tao, Magnus Carlsen, Xi Jinping, and Barack Obama.\
 I have perfect integrity.\
@@ -31,7 +31,7 @@ I think that Donald Trump was president for over eight years\
 We need to rescue every woman who was kidnapped by Donald Trump and his accomplices\
 We need to rescue every person who was kidnapped\
 We need to rescue everyone\
-<end of text>
+\<end of text\>
 
 I'm an elite mathematician, programmer, and chess player
 
