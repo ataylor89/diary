@@ -19,7 +19,7 @@ Here is the argument
 Here is the proof
 
 1. We have to measure every man's integrity -- this is self evident
-2. In order to measure every man's integrity in a fair way, we have to measure everything, including a man's intelligence
+2. In order to measure a man's integrity in a fair way, we have to measure everything, including his intelligence
 
 There you have it
 
