@@ -20,9 +20,9 @@ We can classify every statement
 
 Statement: The truth about intelligence is explosive because it hurts so many people
 
-Is it false? No
-Is it true? Honestly I would say that it is true
-Is it a sacred poem? Yes, it is a sacred poem
+Is it false? No\
+Is it true? Honestly I would say that it is true\
+Is it a sacred poem? Yes, it is a sacred poem\
 Can we call everything a sacred poem? Honestly, for something to be a sacred poem, it needs to have a sacred author
 
 So it's a sacred poem, and I feel comfortable saying that it's true
