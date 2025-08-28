@@ -106,7 +106,7 @@ I think that terrorists in the US military are the biggest cause of these emerge
 
 In fact, I have proven it
 
-I have proven, beyond a debout, that terrorists in the US military are the biggest cause of these emergencies
+I have proven, beyond a doubt, that terrorists in the US military are the biggest cause of these emergencies
 
 This brings us to a conclusion
 
