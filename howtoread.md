@@ -79,7 +79,7 @@ We will read it line by lien
     - I really enjoyed this show
 
 13. I'm a victim of presidential crime
-    = A fair background check confirms that it's true
+    - A fair background check confirms that it's true
 
 14. The movie Mufasa was attacked because Scar was given the name Taka
     - This is a theory and it has a lot of evidence
