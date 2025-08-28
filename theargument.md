@@ -31,9 +31,9 @@ Listen
 
 Integrity measurements are so important...
 
-In order to measure a man's integrity, we have to measure everything, including a man's intelligence
+In order to measure a man's integrity, we have to measure everything, including his intelligence
 
-In order to be fair, we have to measure everything, including a man's intelligence
+In order to be fair, we have to measure everything, including intelligence
 
 So listen
 
