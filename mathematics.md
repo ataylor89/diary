@@ -174,9 +174,9 @@ A competent government should recognize every living organism as a citizen
 
 A competent government should recognize every animal, every plant, every monkey, every living creature, every thing, as a citizen
 
-The law of animal rights is the most important right
+The law of animal rights is the most important law
 
-The law of plant rights is the most important right
+The law of plant rights is the most important law
 
 We need to make every country vegan
 
