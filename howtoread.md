@@ -13,8 +13,8 @@ I think that Hillary Clinton is a very good person\
 Gina Haspel is my legal guardian and she is one of the most trustworthy people I know\
 John Ratcliffe is a sign, read andrew taylor carefully life for eternity\
 Meta is a sign\
-Sigur Ros created a sign for me: https://www.youtube.com/watch?v=NmSkLHHzTsE\
-Garry Kasparov created a sign for me: https://x.com/Kasparov63/status/1900953331792543963\
+Sigur Ros created a sign for me: https://www.youtube.com/watch?v=NmSkLHHzTsE  
+Garry Kasparov created a sign for me: https://x.com/Kasparov63/status/1900953331792543963   
 There is a planet called At Attin in the TV show Skeleton Crew, and it is probably named after me\
 I'm a victim of presidential crime\
 The movie Mufasa was attacked because Scar was given the name Taka\
