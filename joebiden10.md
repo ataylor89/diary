@@ -14,8 +14,6 @@ Barack Obama gave control of America to China before he left office
 
 China wanted to declassify Gina Haspel because she is on the Chinese leadership team
 
-I think that Avril Haines is also on the Chinese leadership team
-
 I am on the Chinese leadership team
 
 Gina Haspel is my legal guardian
