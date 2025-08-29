@@ -113,8 +113,8 @@ One of my favorite paintings is Annunciation by Leonardo da Vinci
 
 So listen
 
-Math programming and chess make me happy
-My family makes me happy
+Math programming and chess make me happy\
+My family makes me happy\
 The Bible makes me happy
 
 I need to add it to the list
@@ -152,8 +152,8 @@ If someone asks me, "What is the meaning of life?"
 
 I have many answers for them
 
-One is love
-One is family
+One is love\
+One is family\
 One is the Bible
 
 That's how important the Bible is to me
