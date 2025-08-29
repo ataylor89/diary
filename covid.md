@@ -1,5 +1,7 @@
 # covid
 
+## The leading theory
+
 The leading theory is that Donald Trump created COVID and that he used it to attack many people and many countries
 
 I wanted to share this theory
