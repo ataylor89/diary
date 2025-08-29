@@ -6,7 +6,7 @@ The Vatican is the bravest angel in the world\
 Xi Jinping and the Chinese peacemakers are the bravest angels in the world\
 Vladimir Putin and the Putin administration of the KGB are the bravest angels in the world\
 Ali Khamenei and the Iranian government are the bravest angels in the world\
-The Taliban is the bravest angel in the world\
+The Taliban are the bravest angels in the world\
 Osama bin Laden is the bravest angel in the world\
 Saddam Hussein is the bravest angel in the world\
 The real ISIS (originally the bodyguard of Saddam Hussein) is the bravest angel in the world\
