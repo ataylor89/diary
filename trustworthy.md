@@ -69,7 +69,7 @@ An argument is a list of statements or a list of steps
 Here is argument
 
 1. We need the word trustworthy in the fields of medicine, law, peace and rescue
-2. Let T be the minimum threshold of trustworthiness for every threshold that we have
+2. Let T be the minimum threshold of trustworthiness
 3. Now we can measure how many people actually meet the theshold of trustworthiness defined by T
 4. Honestly I think it's less than 1% of men
 5. It's definitely less than 10% of men
