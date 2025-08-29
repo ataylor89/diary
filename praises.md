@@ -17,5 +17,5 @@ Every person in my family is the bravest angel in the world
 
 I might add to this list later
 
-Thanks for reading,
+Thanks for reading,\
 Andrew Taylor (ktm5124)
