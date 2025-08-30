@@ -148,7 +148,7 @@ The law of best medical care is to give every person best medical care
 
 The IRS complies with the laws of immediate rescue, peace, and best medical care
 
-We need to make peace everywhere in planet Earth and everywhere in the cosmos
+We need to make peace everywhere on planet Earth and everywhere in the cosmos
 
 I think that's a good place to stop because I wrote about many subjects and I described many functions of the IRS
 
