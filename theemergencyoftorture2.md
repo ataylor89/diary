@@ -116,7 +116,7 @@ I am writing this post because I want people to know that the Immediate Rescue S
 
 I am writing this post because I want people to know that there is a qualified government called the Immediate Rescue System, and that the Immediate Rescue System protects everyone, and that the Immediate Rescue System rescues everyone
 
-We need to create peace in the ocean, on land, in the skies, and everywhere in planet Earth
+We need to create peace in the ocean, on land, in the skies, and everywhere on planet Earth
 
 We need to create peace in the solar system, in the galaxy, in the universe
 
