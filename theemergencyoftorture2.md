@@ -114,7 +114,7 @@ I am writing this post because I want people to know there is an emergency of to
 
 I am writing this post because I want people to know that the Immediate Rescue System is a name for international government
 
-I am writing this post because I want people to know that there is a qualified government called the Immediate Rescue System, and that the Immediate Rescue system protects everyone, and that the Immediate Rescue System rescues everyone
+I am writing this post because I want people to know that there is a qualified government called the Immediate Rescue System, and that the Immediate Rescue System protects everyone, and that the Immediate Rescue System rescues everyone
 
 We need to create peace in the ocean, on land, in the skies, and everywhere in planet Earth
 
