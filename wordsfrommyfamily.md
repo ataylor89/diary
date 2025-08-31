@@ -41,3 +41,27 @@ So grateful
 So happy
 
 So amazed
+
+Protection of women girls and animals is the highest law
+
+The highest law is protection of women girls and animals
+
+That's like E = mc^2
+
+Every thing is an animal, because every thing has a mind
+
+Every thing is a person, because every thing has a mind
+
+Every plant is an animal
+
+Every plant is a person
+
+Jacob and Josephine are aliens
+
+Jacob can press his hand against the bark of a tree, and download all of the tree's memories
+
+He can see everything the tree has seen
+
+He can hear everything the tree has heard
+
+He can download the entire history of a forest or a park just by pressing his hand against a tree
