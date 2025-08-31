@@ -92,7 +92,7 @@ The answer is, we cannot solve this equation by radicals in the general form
 
 We cannot solve this equation by radicals for all real numbers a,b,c,d,e,f, with the condition that a != 0
 
-We can solve this equation for some sets of a,b,c,d,e,f, but not for every set of a,b,c,d,e,f, given a != 0
+We can solve this equation (by radicals) for some sets of a,b,c,d,e,f, but not for every set of a,b,c,d,e,f, given a != 0
 
 The condition a != 0 is necessary because in order for the equation to be quintic, it is necessary that a != 0
 
