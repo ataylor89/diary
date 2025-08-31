@@ -92,7 +92,7 @@ The answer is, we cannot solve this equation by radicals in the general form
 
 We cannot solve this equation by radicals for all real numbers a,b,c,d,e,f, with the condition that a != 0
 
-We can solve this equation (by radicals) for some sets of a,b,c,d,e,f, but not for every set of a,b,c,d,e,f, given a != 0
+We can solve this equation (by radicals) for some sets of a,b,c,d,e,f, but not for every set of a,b,c,d,e,f, given a != 0*
 
 The condition a != 0 is necessary because in order for the equation to be quintic, it is necessary that a != 0
 
@@ -251,3 +251,7 @@ We can set everyone free
 Anyone can be a mathematician
 
 The real professors are me and my family
+
+Footnotes:
+
+* Let a,b,c,d,e,f be real numbers with a != 0. Then we cannot solve the equation ax^5 + bx^4 + cx^3 + dx^2 + ex + f = 0 by radicals for all sets of a,b,c,d,e,f with a != 0. We cannot write the solutions in terms of arithmetic operations up to and including radicals. But listen. The fundamental theorem of algebra says that this equation has exactly 5 complex solutions. So the equation actually has exactly 5 complex solutions. We can approximate some of the solutions using a graphing calculator. The equation is solvable... it has exactly 5 complex solutions... but it's hard to solve the equation by radicals. I wanted to clarify this point. In other words, we don't have a quintic formula. We have a quadratic formula. I think there's also a cubic formula and a quartic formula. But we are missing a quintic formula. That's the main point of the Abel-Ruffini theorem. That's how I understand it. It's very difficult to prove the fundamental theorem of algebra. It's very difficult to prove the Abel-Ruffini theorem. We need a lot of machinery to prove these theorems. Legend has it that Evariste Galois proved these theorems at a young age. He is widely celebrated in the math world. He is as celebrated as Carl Friedrich Gauss. 
