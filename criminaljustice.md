@@ -21,3 +21,13 @@ An LED is a form of peaceful restraint and it's perfectly peaceful
 Law enforcement has to be perfectly peaceful
 
 Every act of law enforcement has to be perfectly peaceful
+
+Crime is intentional harm
+
+Crime is victimization
+
+If there's a crime, there's a victim
+
+If there's no victim, there's no crime
+
+If a person has legal immunity, then they cannot be accused of a crime, and they cannot be accused of wrongdoing
