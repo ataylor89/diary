@@ -184,7 +184,7 @@ A high voltage level gets decoded as 1
 
 A low voltage level gets decoded as a 0
 
-In this way we convert voltage signals to numbers
+In this way we convert voltage signals into numbers
 
 A memory cell stores a bit of information
 
