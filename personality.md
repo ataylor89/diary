@@ -146,7 +146,7 @@ I write corporate policy :)
 
 So you see, I'm really brave
 
-But I can that I write corporate policy, because I rank higher than Barack Obama, and I rank higher than Xi Jinping
+But I can say that I write corporate policy, because I rank higher than Barack Obama, and I rank higher than Xi Jinping
 
 It is very rare for a male Capital One employee to be a CIA officer
 
