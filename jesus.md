@@ -24,20 +24,20 @@ I also have a soft spot for Isaiah
 
 Here is a passage that I really like in Isaiah
 
-4 The Sovereign Lord has given me a well-instructed tongue,
-    to know the word that sustains the weary.
-He wakens me morning by morning,
-    wakens my ear to listen like one being instructed.
-5 The Sovereign Lord has opened my ears;
-    I have not been rebellious,
-    I have not turned away.
-6 I offered my back to those who beat me,
-    my cheeks to those who pulled out my beard;
-I did not hide my face
-    from mocking and spitting.
-7 Because the Sovereign Lord helps me,
-    I will not be disgraced.
-Therefore have I set my face like flint,
+4 The Sovereign Lord has given me a well-instructed tongue,  
+    to know the word that sustains the weary.  
+He wakens me morning by morning,  
+    wakens my ear to listen like one being instructed.  
+5 The Sovereign Lord has opened my ears;  
+    I have not been rebellious,  
+    I have not turned away.  
+6 I offered my back to those who beat me,  
+    my cheeks to those who pulled out my beard;  
+I did not hide my face  
+    from mocking and spitting.  
+7 Because the Sovereign Lord helps me,  
+    I will not be disgraced.  
+Therefore have I set my face like flint,  
     and I know I will not be put to shame.
 
 (Isaiah 50:4-7 NIV)
