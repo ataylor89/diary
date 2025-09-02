@@ -22,7 +22,7 @@ There are many theories that are protected by law
 
 The theory of integrity, the theory of competence, and the theory of genetic intelligence are all protected by law
 
-If we define trustworthy as "high integrity", then we can substitute this definition in our statement:
+If we define trustworthy as "high integrity", then we can substitute this definition into our statement:
 
 Over 99% of men in America do not have high integrity
 
