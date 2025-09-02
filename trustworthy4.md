@@ -27,7 +27,7 @@ I have the following argument (an argument is a series of statements):
 1. The CIA, the Chinese peacemakers, and many intelligence agencies, have genetic intelligence scores
 2. These intelligence agencies can observe someone who has a specific receptor gene, and their clones, in a fair environment, and give them a genetic intelligence score, using expert analysis
 3. There might be a minimum genetic intelligence requirement for being considered trustworthy
-4. The statistics of trustworthiness in the population of American men depends entirely on the definition of trustworthy
+4. The statistics of trustworthiness in the population of American men depend entirely on the definition of trustworthy
 5. In conclusion, the claim really depends on the definition of trustworthy
 
 I hope that my thoughts and opinions are clear from this argument
