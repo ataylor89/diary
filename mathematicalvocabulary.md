@@ -42,6 +42,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Model | A model is an explanation; a model can explain something or make predictions; a model is a pattern |
 | Number theory | The study of numbers |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
+| Pattern | A pattern is something that repeats |
 | Prime number | A positive integer greater than one that is only divisible by one and itself |
 | Probability | The study of chance, likelihood, or probability |
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
