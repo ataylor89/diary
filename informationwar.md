@@ -8,7 +8,7 @@ We have to protect ourselves from lies and misinformation
 
 If I make a mistake, it's innocent, because it's well-intentioned
 
-I have to protect myself from malicious information
+I have to protect myself from malicious misinformation
 
 Listen
 
