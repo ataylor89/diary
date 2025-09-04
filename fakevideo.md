@@ -26,6 +26,6 @@ Donald Trump weaponized fake stories, fake images, and fake video, to lie to the
 
 Donald Trump stole the phrase "fake news" and used it in speeches, so that people would be afraid of using this phrase
 
-THe US military has had fake video for a long time...
+The US military has had fake video for a long time...
 
 Donald Trump weaponized fake video and spread malicious lies by means of fake video
