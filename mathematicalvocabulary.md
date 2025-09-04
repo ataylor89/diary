@@ -33,6 +33,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Combinatorics | The field of mathematics concerned with counting |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Expected value | A vector of measurements that helps us determine expected value; the (cost, benefit) vector; the (risk, reward) vector |
+| Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
@@ -48,6 +49,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
 | Rationale | A reason or an argument |
 | Risk | A probability; a probability measurement from 0% to 100% |
+| Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
 | The fundamental theorem of algebra | Let P(x) be a polynomial of degree n, where n is a positive integer. Then P(x) has exactly n complex roots and P(x) = 0 has exactly n complex solutions. |
 | The fundamental theorem of arithmetic | Every positive integer greater than one has a unique prime factorization |
