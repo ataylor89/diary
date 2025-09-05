@@ -52,19 +52,19 @@ The sum of the first 2003 odd counting numbers is...
 
 The first term is 1
 
-The last term is 2*2003-1
+The last term is 2 * 2003 - 1
 
-The average of the first term and last term is (1 + 2*2003 - 1)/2 = 2003
+The average of the first term and last term is (1 + 2 * 2003 - 1)/2 = 2003
 
-The sum of the first 2003 odd counting numbers is 2003*2003
+The sum of the first 2003 odd counting numbers is 2003 * 2003
 
 Now listen
 
-The sum of the first 2003 even counting numbers is 2003*2004
+The sum of the first 2003 even counting numbers is 2003 * 2004
 
-The sum of the first 2003 odd counting numbers is 2003*2003
+The sum of the first 2003 odd counting numbers is 2003 * 2003
 
-The difference is 2003*2024 - 2003*2003 = 2003(2004-2003) = 2003(1) = 2003
+The difference is 2003 * 2024 - 2003 * 2003 = 2003(2004-2003) = 2003(1) = 2003
 
 So the answer is 2003
 
@@ -122,11 +122,11 @@ I'll end this document by restating the answer
 
 The answer is 2003
 
-The sum of the first 2003 even counting numbers is 2003*(2 + 2*2003)/2 = 2003*2004
+The sum of the first 2003 even counting numbers is 2003 * (2 + 2 * 2003)/2 = 2003 * 2004
 
-The sum of the first 2003 odd counting numbers is 2003*(1 + 2*2003 - 1)/2 = 2003*2003
+The sum of the first 2003 odd counting numbers is 2003 * (1 + 2 * 2003 - 1)/2 = 2003 * 2003
 
-The difference is 2003*2004 - 2003*2003 = 2003(2004-2003) = 2003
+The difference is 2003 * 2004 - 2003 * 2003 = 2003(2004-2003) = 2003
 
 We did it the long way, but it's actually pretty straightforward
 
