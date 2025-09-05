@@ -64,7 +64,7 @@ The sum of the first 2003 even counting numbers is 2003*2004
 
 The sum of the first 2003 odd counting numbers is 2003*2003
 
-The difference is 2003*2024-2003*2003 = 2003(2004-2003) = 2003(1) = 2003
+The difference is 2003*2024 - 2003*2003 = 2003(2004-2003) = 2003(1) = 2003
 
 So the answer is 2003
 
