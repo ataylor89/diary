@@ -1,4 +1,4 @@
-# password hashes
+# hashing and encryption
 
 An encryption function takes a string as input (we call it plaintext) and produces an encrypted string as output (we call it ciphertext).
 
