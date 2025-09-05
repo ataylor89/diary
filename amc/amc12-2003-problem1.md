@@ -10,7 +10,7 @@ It is common to say that the natural numbers include zero.
 
 If you walk into a room, you can say, "I count zero books."
 
-If you want into a second room, and you see books on the shelf, you can say, "I count ten books."
+If you walk into a second room, and you see books on the shelf, you can say, "I count ten books."
 
 So is zero a counting number? I think it is...
 
