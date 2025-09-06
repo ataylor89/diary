@@ -5,7 +5,7 @@ When we don't know something for sure, we can form a safe list of possibilities
 
 For a list of possibilities to be safe, it has to be psychologically safe
 
-For example:
+For example:  
 I said that I rank higher than Terence Tao, Magnus Carlsen, Barack Obama, and Xi Jinping  
 From my perspective it's true, because I have many proofs that it's true  
 From your perspective, if you don't have proof, if you're not sure, you can say it's true or possibly true  
