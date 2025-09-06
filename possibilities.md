@@ -1,6 +1,6 @@
 # possibilities
 
-The word "possibilities" is a useful word in reasoning
+The word "possibilities" is a useful word in reasoning  
 When we don't know something for sure, we can form a safe list of possibilities
 
 For a list of possibilities to be safe, it has to be psychologically safe
