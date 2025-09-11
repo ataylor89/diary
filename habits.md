@@ -18,7 +18,7 @@ Staying home is obviously best safety advice, because it helps us minimize risk 
 
 Not having sex is best safety advice
 
-I know that it's a sensitive subject... but there are many risks associated with sex, including, the risk of an unwanted pregnancy
+I know that it's a sensitive subject... but there are many risks associated with sex, including, the risk of pregnancy
 
 Chastity is one of the most important ethics in my family
 
