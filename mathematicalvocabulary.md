@@ -31,6 +31,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Best case scenario | The best possible outcome |
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
+| Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Expected value | A vector of measurements that helps us determine expected value; the (cost, benefit) vector; the (risk, reward) vector |
 | Expected value argument | An argument based on expected value |
