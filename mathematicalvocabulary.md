@@ -26,28 +26,35 @@ In the table below, I'll define some important words from the field of mathemati
 |----- | ----------
 | Algebra | The field of mathematics concerned with solving for an unknown or solving equations; the study of equations |
 | Algorithm | A list of instructions |
-| Argument | A list of statements or a sequence of statements; a list of steps or a sequence of steps |
+| Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | The study of numbers and numerical operations |
 | Best case scenario | The best possible outcome |
+| Best decision | The best possible decision |
+| Best move | The best possible move |
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
+| Decision tree | A tree of possible decisions. It's important for the list/tree to be psychologically safe. |
 | Expected value | A vector of measurements that helps us determine expected value; the (cost, benefit) vector; the (risk, reward) vector |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
+| List of possibilities | A list of possibilities is useful when analyzing a person or situation. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
-| Model | A model is an explanation; a model can explain something or make predictions; a model is a pattern |
+| Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things |
 | Number theory | The study of numbers |
+| Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
 | Pattern | A pattern is something that repeats |
+| Possibility tree | A tree of possibilities is useful when analyzing a person or situation. It's important for the tree of possibilities to be psychologically safe. |
 | Prime number | A positive integer greater than one that is only divisible by one and itself |
 | Probability | The study of chance, likelihood, or probability |
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
+| Property | A property is a thing that belongs to another thing (e.g. properties of real numbers, properties of arithmetic) |
 | Rationale | A reason or an argument |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
