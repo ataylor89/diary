@@ -85,7 +85,7 @@ This is a branch of law called building law
 
 I wanted to provide an account of ten laws (in the list above) because it's very useful to know these laws
 
-These laws pertain the IRS... they don't pertain to citizens... they pertain to the IRS
+These laws pertain to the IRS... they don't pertain to citizens... they pertain to the IRS
 
 The law for citizens is to be peaceful
 
