@@ -24,14 +24,14 @@ In the table below, I'll define some important words from the field of mathemati
 
 | Word | Definition
 |----- | ----------
-| Algebra | The field of mathematics concerned with solving for an unknown or solving equations; the study of equations |
+| Algebra | Solving for an unknown; the study of equations |
 | Algorithm | A list of instructions |
 | Argument | An argument is a series of statements that works toward a conclusion |
-| Arithmetic | The study of numbers and numerical operations |
+| Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers roots and modulo) |
 | Best case scenario | The best possible outcome |
 | Best decision | The best possible decision |
 | Best move | The best possible move |
-| Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
+| Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
