@@ -51,6 +51,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
 | Pattern | A pattern is something that repeats |
 | Possibility tree | A tree of possibilities is useful when analyzing a person or situation. It's important for the tree of possibilities to be psychologically safe. |
+| Prediction | A guess about what will happen |
 | Prime number | A positive integer greater than one that is only divisible by one and itself |
 | Probability | The study of chance, likelihood, or probability |
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
