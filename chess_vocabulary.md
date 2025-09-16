@@ -13,6 +13,7 @@ Below, I'll define some words that are commonly used in the game of chess
 | Chess notation | A language for writing down chess moves and recording a game |
 | Combination | A tactic that involves a sacrifice; a swashbuckling tactic; a combination of tactics |
 | Endgame | The third phase of a chess game, when queens have been traded and queens are no longer on the board |
+| En passant | En passant is a capture that a chess player can perform when the opponent's pawn advances two squares and their pawn is adjacent to the square that the opponent's pawn lands on |
 | Middlegame | The second phase of a chess game, after the players have finished their development |
 | Opening | The first phase of a chess game, when both players develop their pieces |
 | Strategy | A plan; the part of chess concerned with planning |
