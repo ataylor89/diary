@@ -18,4 +18,4 @@ Below, I'll define some words that are commonly used in the game of chess
 | Opening | The first phase of a chess game, when both players develop their pieces |
 | Strategy | A plan; the part of chess concerned with planning |
 | Tactic | A move; an attack; a quick attack; a short sequence of moves that yields an advantage |
-| Zugzwang | A player is in zugzwang when every move weakens their position |
+| Zugzwang | A player is in zugzwang when every move weakens their position; a player is in zugzwang when every move loses |
