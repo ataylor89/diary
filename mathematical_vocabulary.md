@@ -56,6 +56,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Probability | The study of chance, likelihood, or probability |
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
 | Property | A property is a thing that belongs to another thing (e.g. properties of real numbers, properties of arithmetic) |
+| Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rationale | A reason or an argument |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
