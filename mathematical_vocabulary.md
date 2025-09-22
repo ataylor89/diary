@@ -39,6 +39,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value | A vector of measurements that helps us determine expected value; the (cost, benefit) vector; the (risk, reward) vector |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
+| Gaussian elimination | A concise, efficient method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
 | List of possibilities | A list of possibilities is useful when analyzing a person or situation. It's important for the list of possibilities to be psychologically safe. |
@@ -61,6 +62,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
+| Structure | A set with operations and relations (e.g. algebraic structures); a structure has everything we need to write equations |
 | The fundamental theorem of algebra | Let P(x) be a polynomial of degree n, where n is a positive integer. Then P(x) has exactly n complex roots and P(x) = 0 has exactly n complex solutions. |
 | The fundamental theorem of arithmetic | Every positive integer greater than one has a unique prime factorization |
 | The fundamental theorem of calculus | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. Then the definite integral of f(x) from a to b is equal to F(b) - F(a), where F is any antiderivative of f. |
