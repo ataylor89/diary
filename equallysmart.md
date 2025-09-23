@@ -2,16 +2,14 @@
 
 In my family we say, "Everyone in our family is equally smart"
 
-I don't feel comfortable saying this about everyone in the world... because... praise has to be safe
-
 In my family we say, "Everyone in our family is equally mature"
 
-I don't feel comfortable saying this about everyone in the world... because... praise has to be safe
+Now, can I say this about everyone in the world?
 
-So, what is the mystery behind these words?
+It's an interesting question
 
-Well, it means so much to my family, that I wanted to share these words
+What does the word "smart" mean? What does the word "mature" mean?
 
-Sometimes, I don't feel the need to answer a question
+Honestly, I might not know how to talk about this subject
 
-Sometimes, I don't feel the need to explain a mystery
+I use these words, in my writing, because I like to use every color in my palette, every word that's appropriate to use
