@@ -46,16 +46,4 @@ He's very well behaved
 
 He's very trustworthy
 
-I think he's very close to Xi Jinping and I'm very close to Xi Jinping
-
-I'm very close to China
-
-China is doing rescue
-
-I love saying it
-
-Cidr
-
-CIDR
-
-China is doing rescue
+He's my favorite US president
