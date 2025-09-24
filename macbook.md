@@ -90,7 +90,7 @@ I use Terminal and vi to program (Python files, Java files, C/C++ files, HTML fi
 
 So I really use Terminal and vi to develop software and to author documents
 
-I also use the menu bar at the top of the screen, and the Dock on the bottom
+I also use the menu bar at the top of the screen, and the Dock at the bottom
 
 If I ever need to use the Finder application, I can find it in my Dock
 
