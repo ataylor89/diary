@@ -17,3 +17,12 @@ Here is a list of resources for learning mathematics:
     - The hardest Mathcounts problems are very difficult and they're more difficult than most AMC problems
 4. Learning a programming language teaches you a lot about mathematics (e.g. Python, Java, C/C++, HTML, JavaScript, CSS, etc)
 5. Learning chess teaches you a lot about mathematics (finding the best move or the best moves, tactics, strategy, endgames, etc)
+6. Alcumus: https://artofproblemsolving.com/alcumus
+    - Alcumus lets you solve math problems online, one by one
+    - Alcumus is as fun, and as instructive, as the AMC/AIME/Putnam exams
+    - I'm really grateful for Alcumus and I love using Alcumus in my spare time
+7. The Art and Craft of Problem Solving by Paul Zeitz
+    - I bought this book in high school, after a friend of mine recommended it
+    - I started reading this book in my senior year of high school
+    - I worked through the problems, and learned a lot about problem solving
+    - I still read this book today
