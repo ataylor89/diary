@@ -37,7 +37,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Decision tree | A tree of possible decisions. It's important for the list/tree to be psychologically safe. |
 | Evidence | Data that supports a claim (e.g. there is a lot of evidence for the theory of gravity) |
-| Expected value | The risk-reward vector; the cost-benefit vector; the probability-outcome vector; a weighted average of all possible outcomes, i.e. E(x) = Σ P(xᵢ) * xᵢ where xᵢ is the value associated with the i-th outcome |
+| Expected value | The risk-reward vector; the cost-benefit vector; the probability-outcome vector; a weighted average of all possible outcomes, i.e. E(x) = Σ P(xᵢ) * xᵢ where xᵢ is the value associated with the i-th possible outcome |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation (e.g. Pi r squared is a formula for the area of a circle of radius r) |
