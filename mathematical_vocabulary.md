@@ -36,7 +36,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Decision tree | A tree of possible decisions. It's important for the list/tree to be psychologically safe. |
-| Definite integral | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. The definite integral of f(x) from a to b is the rectangle approximation of the area under the curve as the number of rectangles approaches infinity. This rectangle approximation is often called a Riemann sum. The area under the curve is bounded by y=a, y=b, f(x), and x=0. |
+| Definite integral | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. The definite integral of f(x) from a to b is the rectangle approximation of the area under the curve as the number of rectangles approaches infinity. This rectangle approximation is often called a Riemann sum. The area under the curve is bounded by x=a, x=b, f(x), and y=0. |
 | Derivative | The derivative of a function f is a function f' such that f'(x) = lim h->0 (f(x+h) - f(x))/h at every x in the domain of f where the limit is defined. (Source: Art of Problem Solving Calculus) |
 | Evidence | Data that supports a claim (e.g. there is a lot of evidence for the theory of gravity) |
 | Expected value | The risk-reward vector; the cost-benefit vector; the probability-outcome vector; a weighted average of all possible outcomes, i.e. E(x) = Σ P(xᵢ) * xᵢ where xᵢ is the value associated with the i-th possible outcome |
