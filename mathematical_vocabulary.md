@@ -46,7 +46,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Idea | An idea is a word or phrase |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
-| List of possibilities | A list of possibilities is useful when analyzing a person or situation. It's important for the list of possibilities to be psychologically safe. |
+| List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
@@ -55,7 +55,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
 | Pattern | A pattern is something that repeats |
-| Possibility tree | A tree of possibilities is useful when analyzing a person or situation. It's important for the tree of possibilities to be psychologically safe. |
+| Possibility tree | A tree of possibilities. It's important for the tree of possibilities to be psychologically safe. |
 | Prediction | A guess about what will happen |
 | Prime number | A positive integer greater than one that is only divisible by one and itself |
 | Probability | The study of chance, likelihood, or probability |
