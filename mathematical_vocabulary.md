@@ -42,6 +42,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation (e.g. Pi r squared is a formula for the area of a circle of radius r) |
 | Gaussian elimination | A concise, efficient method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
+| Idea | An idea is a word or phrase |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
 | List of possibilities | A list of possibilities is useful when analyzing a person or situation. It's important for the list of possibilities to be psychologically safe. |
