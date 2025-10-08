@@ -49,9 +49,11 @@ In the table below, I'll define some important words from the field of mathemati
 | Linear algebra | The study of linear equations |
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
+| Mathematical notation | Mathematical notation is a language for writing down mathematical ideas |
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things |
+| Notation | A notation is a language (e.g. mathematical notation, decimal notation, hexadecimal notation, chess notation, algebraic notation, descriptive notation) |
 | Number theory | The study of numbers |
 | Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
