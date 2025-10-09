@@ -52,7 +52,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas |
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
-| Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things |
+| Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
 | Notation | A notation is a language (e.g. mathematical notation, decimal notation, hexadecimal notation, chess notation, algebraic notation, descriptive notation) |
 | Number theory | The study of numbers |
 | Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
