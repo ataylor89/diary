@@ -24,7 +24,7 @@ In the table below, I'll define some important words from the field of mathemati
 
 | Word | Definition
 |----- | ----------
-| Algebra | Solving for an unknown; the study of equations |
+| Algebra | Solving for an unknown; the study of equations; arithmetic with variables |
 | Algorithm | A list of instructions |
 | Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers roots and modulo) |
