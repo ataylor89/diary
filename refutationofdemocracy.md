@@ -1,5 +1,7 @@
 # the refutation of democracy
 
+## Chapter one
+
 We can refute democracy in just a single statement
 
 "Democracy is not safe for women, and this is one proof that democracy is wrong"
@@ -31,3 +33,31 @@ I wanted to write these things down, because it's an important proof, an importa
 The right form of government is Qualified Government led by Qualified Female Leadership
 
 The right model of leadership is Qualified Female Leadership
+
+## Chapter two
+
+If you read Plato's writing (dialogues like Euthyphro, Apology, Crito, Phaedo, Republic), you'll see that Plato refuted democracy over two thousand years ago, before the birth of Jesus Christ
+
+So listen
+
+I'm not the first person to refute democracy
+
+Plato refuted democracy
+
+Jesus refuted democracy
+
+There are many brilliant intellectuals between me and Jesus, me and Plato, who refuted democracy
+
+I am one of many people who has refuted democracy
+
+Plato did it over two thousand years ago
+
+And listen
+
+He did something more important than that
+
+Plato made Socrates immortal
+
+Plato made Socrates one of my best friends
+
+And that is the best thing he did in his writing
