@@ -54,10 +54,10 @@ Plato did it over two thousand years ago
 
 And listen
 
-He did something more important than that
+He did something more important than this
 
 Plato made Socrates immortal
 
 Plato made Socrates one of my best friends
 
-And that is the best thing he did in his writing
+And this is one of the best things he did with his writing
