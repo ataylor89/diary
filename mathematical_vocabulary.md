@@ -76,6 +76,7 @@ In the table below, I'll define some important words from the field of mathemati
 | The fundamental theorem of calculus | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. Then the definite integral of f(x) from a to b is equal to F(b) - F(a), where F is any antiderivative of f. |
 | Theory | A hypothesis |
 | Trigonometry | The study of triangles |
+| Variable | A variable is a container that holds a value |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
 | Worst case scenario | I have OCD so it hurts that this is the last word in my mathematical glossary but listen, we need to find a word that starts with a letter after w, or a word that comes after this word (alphabetically). It suffices to say that worst case scenario does not need a definition. I have OCD so I think that this long treatise is enough and it really is the case that best case worst case analysis is a useful tool in analysis and reasoning. |
