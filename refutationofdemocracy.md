@@ -36,29 +36,53 @@ I wanted to write these things down, because it's an important proof, an importa
 
 If you read Plato's writing (dialogues like Euthyphro, Apology, Crito, Phaedo, Republic), you'll see that Plato refuted democracy over two thousand years ago, before the birth of Jesus Christ
 
-So listen
-
-I'm not the first person to refute democracy
+I am not the first person to refute democracy
 
 Plato refuted democracy
 
-Jesus refuted democracy
+There are many people who refuted democracy after Plato
 
-There are many brilliant intellectuals between me and Jesus, me and Plato, who refuted democracy
+Plato accomplished a lot of things with his writing
 
-I am one of many people who has refuted democracy
+He shared Socrates with the world
 
-Plato did it over two thousand years ago
+He made Socrates a character in my imagination
 
-And listen
+He wrote down many accounts of Socrates, to share them with posterity
 
-He did something more important than this
+I'm really grateful that he did this
 
-Plato made Socrates immortal
+I'm really grateful for Plato
 
-Plato made Socrates one of my best friends
+I'm really grateful for Socrates
 
-And this is one of the best things he did with his writing
+Socrates has a special place in my imagination
+
+Socrates is famous for saying that there are some things he knows and some things he doesn't know
+
+I can say the same -- there are some things I know and some things I don't know
+
+I know that Socrates earned a place in my heart forever
+
+I know that Socrates earned a place in my mind forever
+
+Because Socrates has a place in my imagination...
+
+And my imagination is part of my mind
+
+So I can confidently say, "Socrates lives in my heart and mind"
+
+I can confidently say, "Socrates is a philosopher who taught me philosophy"
+
+Philosophy is the love of wisdom
+
+What is wisdom?
+
+That's a really good question for a philosopher
+
+If philosophy is the love of wisdom, then what is wisdom?
+
+I'll leave that for you to say
 
 ## Chapter five
 
