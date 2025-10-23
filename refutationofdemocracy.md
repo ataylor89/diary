@@ -10,6 +10,8 @@ Democracy is not the right form of government
 
 Democracy is not the right model of leadership
 
+## Chapter two
+
 What is the right form of government?
 
 What is the right model of leadership?
@@ -18,7 +20,7 @@ The right form of government is Qualified Government led by Qualified Female Lea
 
 The right model of leadership is Qualified Female Leadership
 
-So I'll just end this by saying...
+## Chapter three
 
 We refuted democracy
 
@@ -34,7 +36,7 @@ The right form of government is Qualified Government led by Qualified Female Lea
 
 The right model of leadership is Qualified Female Leadership
 
-## Chapter two
+## Chapter four
 
 If you read Plato's writing (dialogues like Euthyphro, Apology, Crito, Phaedo, Republic), you'll see that Plato refuted democracy over two thousand years ago, before the birth of Jesus Christ
 
@@ -62,7 +64,7 @@ Plato made Socrates one of my best friends
 
 And this is one of the best things he did with his writing
 
-## Chapter three
+## Chapter five
 
 The purpose of this document is to give a proof that democracy is wrong (a refutation of democracy)
 
