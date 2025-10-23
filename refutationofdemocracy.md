@@ -66,9 +66,9 @@ I know that Socrates earned a place in my heart forever
 
 I know that Socrates earned a place in my mind forever
 
-Socrates has a place in my imagination...
+Because Socrates has a place in my imagination...
 
-My imagination is part of my mind
+And my imagination is part of my mind
 
 So I can confidently say, "Socrates lives in my heart and mind"
 
@@ -82,7 +82,7 @@ That's a really good question for a philosopher
 
 If philosophy is the love of wisdom, then what is wisdom?
 
-I'll leave that for you to decide
+I'll leave that for you to say
 
 ## Chapter five
 
