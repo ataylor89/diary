@@ -61,3 +61,17 @@ Plato made Socrates immortal
 Plato made Socrates one of my best friends
 
 And this is one of the best things he did with his writing
+
+## Chapter three
+
+The purpose of this document is to give a proof that democracy is wrong (a refutation of democracy)
+
+Democracy is not a good system for choosing a leader
+
+It is important to recognize the true leaders of planet Earth
+
+The true leaders of planet Earth are Qualified Female Leadership
+
+There is really a right theory of government, a right model of government, and it is Qualified Government, also known as World Government, International Government, and the Immediate Rescue System
+
+There is really a right theory of leadership, a right model of leadership, and it is Qualified Female Leadership, also known as QFL
