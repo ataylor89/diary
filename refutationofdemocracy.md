@@ -6,9 +6,9 @@ We can refute democracy in just a single statement
 
 "Democracy is not safe for women, and this is one proof that democracy is wrong"
 
-Democracy is a wrong form of government
+Democracy is not the right form of government
 
-Democracy is a wrong model of leadership
+Democracy is not the right model of leadership
 
 What is the right form of government?
 
