@@ -2,7 +2,7 @@
 
 ## Chapter one
 
-We can refute democracy in just a single statement
+We can refute democracy very quickly
 
 "Democracy is not safe for women, and this is one proof that democracy is wrong"
 
