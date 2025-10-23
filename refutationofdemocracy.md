@@ -32,10 +32,6 @@ Democracy is not safe for women, and this is one proof that democracy is wrong
 
 I wanted to write these things down, because it's an important proof, an important theorem, in the theory of government
 
-The right form of government is Qualified Government led by Qualified Female Leadership
-
-The right model of leadership is Qualified Female Leadership
-
 ## Chapter four
 
 If you read Plato's writing (dialogues like Euthyphro, Apology, Crito, Phaedo, Republic), you'll see that Plato refuted democracy over two thousand years ago, before the birth of Jesus Christ
