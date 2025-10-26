@@ -26,12 +26,14 @@ In the table below, I'll define some important words from the field of mathemati
 |----- | ----------
 | Algebra | Solving for an unknown; the study of equations; arithmetic with variables |
 | Algorithm | A list of instructions |
+| Analysis | Analysis is the rigorous study of mathematical objects (source: Analysis I by Terence Tao) |
 | Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers roots and modulo) |
 | Best case scenario | The best possible outcome |
 | Best decision | The best possible decision |
 | Best move | The best possible move |
 | Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
+| Cauchy sequence | A sequence of rational numbers a(n) is a Cauchy sequence if and only if for every rational e > 0 there exists an integer N >= 0 such that \|a(j) - a(k)\| <= e for all j, k >= N (source: Analysis I by Terence Tao); a sequence of rational numbers is a Cauchy sequence iff for all epsilon > 0 there exists an index after which any two elements are epsilon-close |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
@@ -45,6 +47,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Formula | A formula is an equation or part of an equation (e.g. Pi r squared is a formula for the area of a circle of radius r) |
 | Gaussian elimination | A concise, efficient method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase |
+| Integer | An integer is an expression of the form a-b, where a and b are natural numbers (source: Analysis I by Terence Tao) |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
@@ -53,6 +56,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Matrix | A rectangular array of numbers |
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
+| Natural number | A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao); a natural number is any number defined by the Peano axioms; a natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao) |
 | Notation | A notation is a language (e.g. mathematical notation, decimal notation, hexadecimal notation, chess notation, algebraic notation, descriptive notation) |
 | Number theory | The study of numbers |
 | Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
@@ -65,7 +69,10 @@ In the table below, I'll define some important words from the field of mathemati
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
 | Property | A property is a thing that belongs to another thing (e.g. properties of real numbers, properties of arithmetic) |
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
+| Rational number | A rational number is an expression of the form a/b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao) |
 | Rationale | A reason or an argument |
+| Real analysis | The study of real numbers, the real number field, real sequences, real series, and real functions; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
+| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
@@ -79,6 +86,4 @@ In the table below, I'll define some important words from the field of mathemati
 | Variable | A variable is a container that holds a value |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
-| Worst case scenario | I have OCD so it hurts that this is the last word in my mathematical glossary but listen, we need to find a word that starts with a letter after w, or a word that comes after this word (alphabetically). It suffices to say that worst case scenario does not need a definition. I have OCD so I think that this long treatise is enough and it really is the case that best case worst case analysis is a useful tool in analysis and reasoning. |
-| Xylophone | The xylophone is an instrument I want to learn |
-| Zero | The number zero is very useful in mathematics. Zero is the additive identity. |
+| Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity in the real number field. |
