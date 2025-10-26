@@ -71,7 +71,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rational number | A rational number is an expression of the form a/b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao) |
 | Rationale | A reason or an argument |
-| Real analysis | The study of real numbers, the real number field, real sequences, real series, and real functions; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
+| Real analysis | The study of real numbers, real sequences, real series, and real functions; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
 | Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
