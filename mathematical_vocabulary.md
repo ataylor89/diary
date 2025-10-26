@@ -72,7 +72,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Rational number | A rational number is an expression of the form a/b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao) |
 | Rationale | A reason or an argument |
 | Real analysis | The study of real numbers, real sequences, real series, and real functions; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
-| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a Cauchy sequence |
+| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a Cauchy sequence. We use sequences to approximate numbers like Pi or sqrt(2), which is why we can think of a real number as a sequence of rational numbers. Intuitively, a real number is a sequence of rational numbers or a point on the number line. |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
